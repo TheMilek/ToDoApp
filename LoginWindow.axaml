@@ -1,0 +1,13 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="AvaloniaProject.LoginWindow"
+        Title="Login Window"
+        Width="300"
+        Height="200">
+
+    <StackPanel Spacing="10">
+        <TextBox x:Name="txtUsername" Name="Username"/>
+        <TextBox x:Name="txtPassword" Name="Password"/>
+        <Button Content="Log In" Click="OnLoginButtonClicked"/>
+    </StackPanel>
+</Window>

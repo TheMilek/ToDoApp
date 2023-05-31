@@ -1,0 +1,9 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:AvaloniaProject"
+             x:Class="AvaloniaProject.CreateTaskPage">
+    <StackPanel>
+        <TextBlock Text="Create Task Page" FontSize="24" FontWeight="Bold" Margin="10"/>
+        <!-- Add your create task UI elements here -->
+    </StackPanel>
+</UserControl>

@@ -1,0 +1,15 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="AvaloniaProject.MainPage"
+        Title="Main Page"
+        Width="600"
+        Height="400">
+    <DockPanel LastChildFill="True">
+        <StackPanel DockPanel.Dock="Left" Background="LightGray" Width="100" Spacing="10">
+            <Button Content="My Account" Click="onShowAccount"/>
+            <Button Content="Show Tasks" Click="onShowTasks"/>
+            <Button Content="Create Task" Click="onCreateTask"/>
+        </StackPanel>
+        <ContentControl Name="MainContent" />
+    </DockPanel>
+</Window>

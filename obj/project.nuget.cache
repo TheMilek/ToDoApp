@@ -1,0 +1,146 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uc+823mxKnjm2sDDcqW3hwXzAsDOlLzEmaCqbh7HXwiVAByluKz63F6MPZm8zKajPZSC4Crl6rTGq/mXS+ysrQ==",
+  "success": false,
+  "projectFilePath": "/Users/kamil/RiderProjects/AvaloniaProject/AvaloniaProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/kamil/.nuget/packages/avalonia/0.10.18/avalonia.0.10.18.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/avalonia.angle.windows.natives/2.1.0.2020091801/avalonia.angle.windows.natives.2.1.0.2020091801.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/avalonia.controls.datagrid/0.10.18/avalonia.controls.datagrid.0.10.18.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/avalonia.desktop/0.10.18/avalonia.desktop.0.10.18.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/avalonia.diagnostics/0.10.18/avalonia.diagnostics.0.10.18.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/avalonia.freedesktop/0.10.18/avalonia.freedesktop.0.10.18.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/avalonia.native/0.10.18/avalonia.native.0.10.18.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/avalonia.remote.protocol/0.10.18/avalonia.remote.protocol.0.10.18.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/avalonia.skia/0.10.18/avalonia.skia.0.10.18.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/avalonia.win32/0.10.18/avalonia.win32.0.10.18.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/avalonia.x11/0.10.18/avalonia.x11.0.10.18.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/harfbuzzsharp/2.8.2.1-preview.108/harfbuzzsharp.2.8.2.1-preview.108.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/harfbuzzsharp.nativeassets.linux/2.8.2.1-preview.108/harfbuzzsharp.nativeassets.linux.2.8.2.1-preview.108.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/harfbuzzsharp.nativeassets.macos/2.8.2.1-preview.108/harfbuzzsharp.nativeassets.macos.2.8.2.1-preview.108.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/harfbuzzsharp.nativeassets.webassembly/2.8.2.1-preview.108/harfbuzzsharp.nativeassets.webassembly.2.8.2.1-preview.108.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/harfbuzzsharp.nativeassets.win32/2.8.2.1-preview.108/harfbuzzsharp.nativeassets.win32.2.8.2.1-preview.108.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/jetbrains.annotations/10.3.0/jetbrains.annotations.10.3.0.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/microsoft.codeanalysis.analyzers/2.9.6/microsoft.codeanalysis.analyzers.2.9.6.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/microsoft.codeanalysis.common/3.4.0/microsoft.codeanalysis.common.3.4.0.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/microsoft.codeanalysis.csharp/3.4.0/microsoft.codeanalysis.csharp.3.4.0.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/microsoft.codeanalysis.csharp.scripting/3.4.0/microsoft.codeanalysis.csharp.scripting.3.4.0.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/microsoft.codeanalysis.scripting.common/3.4.0/microsoft.codeanalysis.scripting.common.3.4.0.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/microsoft.csharp/4.3.0/microsoft.csharp.4.3.0.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/microsoft.entityframeworkcore/7.0.5/microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.5/microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.5/microsoft.entityframeworkcore.analyzers.7.0.5.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/microsoft.entityframeworkcore.design/7.0.5/microsoft.entityframeworkcore.design.7.0.5.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/microsoft.entityframeworkcore.relational/7.0.5/microsoft.entityframeworkcore.relational.7.0.5.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/microsoft.entityframeworkcore.sqlite/7.0.5/microsoft.entityframeworkcore.sqlite.7.0.5.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/microsoft.entityframeworkcore.sqlite.core/7.0.5/microsoft.entityframeworkcore.sqlite.core.7.0.5.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/microsoft.entityframeworkcore.sqlserver/7.0.5/microsoft.entityframeworkcore.sqlserver.7.0.5.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/microsoft.entityframeworkcore.tools/7.0.5/microsoft.entityframeworkcore.tools.7.0.5.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/microsoft.entityframeworkcore.tools.dotnet/2.0.3/microsoft.entityframeworkcore.tools.dotnet.2.0.3.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/skiasharp/2.88.1-preview.108/skiasharp.2.88.1-preview.108.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/skiasharp.nativeassets.linux/2.88.1-preview.108/skiasharp.nativeassets.linux.2.88.1-preview.108.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/skiasharp.nativeassets.macos/2.88.1-preview.108/skiasharp.nativeassets.macos.2.88.1-preview.108.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/skiasharp.nativeassets.webassembly/2.88.1-preview.108/skiasharp.nativeassets.webassembly.2.88.1-preview.108.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/skiasharp.nativeassets.win32/2.88.1-preview.108/skiasharp.nativeassets.win32.2.88.1-preview.108.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/system.buffers/4.4.0/system.buffers.4.4.0.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/system.collections.immutable/1.5.0/system.collections.immutable.1.5.0.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/system.componentmodel.annotations/4.5.0/system.componentmodel.annotations.4.5.0.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/system.drawing.common/4.5.0/system.drawing.common.4.5.0.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/system.reactive/5.0.0/system.reactive.5.0.0.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/system.runtime.compilerservices.unsafe/4.6.0/system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/system.runtime.interopservices.runtimeinformation/4.3.0/system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/system.security.principal.windows/4.7.0/system.security.principal.windows.4.7.0.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/system.text.encoding.codepages/4.5.1/system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/tmds.dbus/0.9.0/tmds.dbus.0.9.0.nupkg.sha512",
+    "/Users/kamil/.nuget/packages/xamlnamereferencegenerator/1.6.1/xamlnamereferencegenerator.1.6.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore 7.0.5 is not compatible with net60 (.NETFramework,Version=v6.0). Package Microsoft.EntityFrameworkCore 7.0.5 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETFramework,Version=v6.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Abstractions 7.0.5 is not compatible with net60 (.NETFramework,Version=v6.0). Package Microsoft.EntityFrameworkCore.Abstractions 7.0.5 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Abstractions",
+      "targetGraphs": [
+        ".NETFramework,Version=v6.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Design 7.0.5 is not compatible with net60 (.NETFramework,Version=v6.0). Package Microsoft.EntityFrameworkCore.Design 7.0.5 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Design",
+      "targetGraphs": [
+        ".NETFramework,Version=v6.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Relational 7.0.5 is not compatible with net60 (.NETFramework,Version=v6.0). Package Microsoft.EntityFrameworkCore.Relational 7.0.5 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Relational",
+      "targetGraphs": [
+        ".NETFramework,Version=v6.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Sqlite 7.0.5 is not compatible with net60 (.NETFramework,Version=v6.0). Package Microsoft.EntityFrameworkCore.Sqlite 7.0.5 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Sqlite",
+      "targetGraphs": [
+        ".NETFramework,Version=v6.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Sqlite.Core 7.0.5 is not compatible with net60 (.NETFramework,Version=v6.0). Package Microsoft.EntityFrameworkCore.Sqlite.Core 7.0.5 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Sqlite.Core",
+      "targetGraphs": [
+        ".NETFramework,Version=v6.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.SqlServer 7.0.5 is not compatible with net60 (.NETFramework,Version=v6.0). Package Microsoft.EntityFrameworkCore.SqlServer 7.0.5 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        ".NETFramework,Version=v6.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Tools 7.0.5 is not compatible with net60 (.NETFramework,Version=v6.0). Package Microsoft.EntityFrameworkCore.Tools 7.0.5 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools",
+      "targetGraphs": [
+        ".NETFramework,Version=v6.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Tools.DotNet 2.0.3 is not compatible with net60 (.NETFramework,Version=v6.0). Package Microsoft.EntityFrameworkCore.Tools.DotNet 2.0.3 supports: netcoreapp2.0 (.NETCoreApp,Version=v2.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools.DotNet",
+      "targetGraphs": [
+        ".NETFramework,Version=v6.0"
+      ]
+    }
+  ]
+}

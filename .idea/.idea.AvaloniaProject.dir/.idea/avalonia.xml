@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="AccountPage.axaml" value="AvaloniaProject.csproj" />
+        <entry key="App.axaml" value="AvaloniaProject.csproj" />
+        <entry key="CreateTaskPage.axaml" value="AvaloniaProject.csproj" />
+        <entry key="LoginForm.axaml" value="AvaloniaProject.csproj" />
+        <entry key="LoginWindow.axaml" value="AvaloniaProject.csproj" />
+        <entry key="MainPage.axaml" value="AvaloniaProject.csproj" />
+        <entry key="MainWindow.axaml" value="AvaloniaProject.csproj" />
+        <entry key="ShowAccount.axaml" value="AvaloniaProject.csproj" />
+        <entry key="TasksPage.axaml" value="AvaloniaProject.csproj" />
+        <entry key="main.xaml" value="AvaloniaProject.csproj" />
+        <entry key="test.axaml" value="AvaloniaProject.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
